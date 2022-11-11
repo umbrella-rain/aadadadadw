@@ -1,0 +1,26 @@
+.test {
+	
+	background-color: #0000FF;
+	width: 1000px;
+	height: 500px;
+	padding: 15px;
+	box-sizing: border-box;	
+	margin: 0 auto;
+}
+
+
+.test1 {
+	
+	background-color: #FFFF00;
+	width: 1000px;
+	height: 500px;
+	padding: 15px;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+img {
+	display: block;
+	width: 600px;
+	height: 500px;
+	margin: 0 auto;
+}
